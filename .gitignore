@@ -1,0 +1,20 @@
+build/
+.gradle/
+/.idea/
+.DS_Store
+*.iml
+local.properties
+/codecov.sh
+outputs/
+
+#ndk stuff
+.cxx
+.externalNativeBuild/
+
+!/gradle/wrapper/gradle-wrapper.jar
+
+#vscode
+.project
+.settings/
+.classpath
+.vscode/
